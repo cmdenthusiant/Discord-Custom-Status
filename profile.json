@@ -3,8 +3,17 @@
     "Cookie": "",
     "Interval":3,
     "Status":{
-        "1":"12345",
-        "2":"67890",
-        "3":"abcde"
+        "1":{
+            "emoji_name":"💬",
+            "text":"12345"
+        },
+        "2":{
+            "emoji_name":"💬",
+            "text":"67890"
+        },
+        "3":{
+            "emoji_name":"💬",
+            "text":"abcde"
+        }
     }
 }
